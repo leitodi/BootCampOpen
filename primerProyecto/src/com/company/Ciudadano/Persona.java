@@ -15,7 +15,7 @@ public class Persona {
         this.nombre=nombre;
         this.edad=edad;
         this.energia=energia;
-        this.sexo=sexo;
+        this.sexo=sexo ;
 
     }
 
